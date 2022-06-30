@@ -27,6 +27,7 @@
 > EX: se escrever **cd w**, e apertar TAB, ele irá complementar para **cd windows** *(se tiver uma pasta com tal nome)*.
 
 
+
 **SHA** = Algoritmo de Hash Seguro.
   - conjunto de funções hash criptográficas projetadas pela NSA.
     - Blods = contém os metadados do GIT + Sha 1.
@@ -34,10 +35,15 @@
     - Commit = tree + parente (último commit realizado) + autor + mensagem.
   - O SHA1 desse commit é o hash de toda essa informação.
   
+  
   > Chave SSH = estabelece uma relação segura e criptografada entre o Git e o GitHub.
+  > 
   > Token = relação segura.
+  > 
   > Morkdown = arquivo que escreve de uma forma mais "humana" um arquivo HTML.
+  > 
   > Git Init = cria repositorio o git.
+
 
 
 #### Ambiente de Desenvolvimento ####
