@@ -1,6 +1,5 @@
 # Repositorio_Bootcamp Impulso Javascript Evolution
-
-Nesse repositorio há os Desafios de Projetos e atividades extras ou exemplos, que foram apresentados no Bootcamp Impulso Javascript Evolution da Digital Innovation One. 
+### Git/GitHub 
 
 Repositório para o Desafio de Projeto - Git/GitHub
 
